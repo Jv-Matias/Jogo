@@ -1,0 +1,28 @@
+.InfoEnd {
+    width: 350px;
+    margin-top: 10px;
+    border-radius: 50px;
+    border: gold 10px solid;
+    height: 400px;
+    display: table-caption;
+    align-items: center;
+    text-align: center;
+}
+
+.BestScore,
+.InputPointsEnd {
+    font-size: 20px;
+    border-radius: 5px;
+    width: 150px;
+}
+
+.SpanPointsEnd,
+.SpanBestScore {
+    display: flex;
+    text-transform: uppercase;
+    margin-left: 20px;
+}
+
+.btnReset{
+    margin-top: 10px;
+}
